@@ -1,4 +1,4 @@
-# Burp Suite Tutorial
+# Burp Suite Guide
 
 ## Description
 Comprehensive guide and tutorials on using Burp Suite for web application penetration testing, created by [Ahmed Hamdy](https://www.facebook.com/ahmedhamdy0x) from [GenTiL Security](https://www.youtube.com/@gentil.security). Visit our YouTube channel for more cybersecurity tutorials.
